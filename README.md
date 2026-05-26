@@ -1,19 +1,3 @@
-## Hi there 👋
-
-<!--
-**AriyanAzami/AriyanAzami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1 align="center">Hi, I'm Ariyan 👋</h1>
 <h3 align="center">Computer Engineering @ York University · AI/ML · Full-Stack · Embedded Systems</h3>
 
@@ -90,8 +74,8 @@ I'm a Computer Engineering student at York University with a soft spot for build
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AriyanAzami&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AriyanAzami&layout=compact&hide_border=true&langs_count=8" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AriyanAzami&show_icons=true&hide_border=true&theme=default" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AriyanAzami&layout=compact&hide_border=true&theme=default&langs_count=8" />
 </p>
 
 ---
