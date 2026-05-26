@@ -71,13 +71,11 @@ I'm a Computer Engineering student at York University with a soft spot for build
 
 ---
 
-### 📊 GitHub stats
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=AriyanAzami&hide_border=true&mode=weekly" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AriyanAzami&layout=compact&hide_border=true&langs_count=8" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AriyanAzami&theme=default" />
 </p>
 ---
 
