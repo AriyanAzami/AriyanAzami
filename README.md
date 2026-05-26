@@ -71,12 +71,13 @@ I'm a Computer Engineering student at York University with a soft spot for build
 
 ---
 
-<p align="center">
+<p align="left">
   <img src="https://streak-stats.demolab.com?user=AriyanAzami&hide_border=true&mode=weekly" />
 </p>
-<p align="center">
+<p align="right">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AriyanAzami&theme=default" />
 </p>
+
 ---
 
 ### 📫 Let's connect
