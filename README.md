@@ -74,10 +74,11 @@ I'm a Computer Engineering student at York University with a soft spot for build
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AriyanAzami&show_icons=true&hide_border=true&theme=default" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AriyanAzami&layout=compact&hide_border=true&theme=default&langs_count=8" />
+  <img src="https://streak-stats.demolab.com?user=AriyanAzami&hide_border=true&mode=weekly" />
 </p>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AriyanAzami&layout=compact&hide_border=true&langs_count=8" />
+</p>
 ---
 
 ### 📫 Let's connect
