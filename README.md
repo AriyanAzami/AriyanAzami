@@ -88,7 +88,9 @@ I'm a Computer Engineering student at York University who likes building softwar
 ### 📈 Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AriyanAzami&hide_border=true&area=true&theme=github-compact" width="95%" />
+  <img height="170" src="https://streak-stats.demolab.com?user=AriyanAzami&hide_border=true&mode=weekly" />
+  &nbsp;&nbsp;
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AriyanAzami&theme=default" />
 </p>
 
 <p align="center">
