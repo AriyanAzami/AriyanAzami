@@ -12,7 +12,7 @@
 
 ### 🧑‍💻 About me
 
-I'm a Computer Engineering student at York University working mainly on **real-time computer vision**, most recently ROD, a 25-class urban obstacle benchmark built for detectors that have to run on the device in someone's pocket. I'm also a Software Developer at [Appli Solutions](https://applisolutions.com) and a Machine Learning Research Assistant at York's Laboratory of Advanced Biotechnologies.
+I'm a Computer Engineering student at York University working mainly on **real-time computer vision**, most recently ROD, a 25-class urban obstacle benchmark we built for detectors that have to run on the device in someone's pocket. I'm also a Software Developer at [Appli Solutions](https://applisolutions.com) and a Machine Learning Research Assistant at York's Laboratory of Advanced Biotechnologies.
 
 ---
 
@@ -44,7 +44,7 @@ Recall is the operating metric here, not mAP. A false positive costs a buzz the 
 | Project | Stack | What it is |
 | :-- | :-- | :-- |
 | 🤖 [**SyncAgent**](https://github.com/AriyanAzami/SyncAgent) | `Python` · zero deps | Claude Code, Gemini CLI and Codex CLI on one task, coordinated through markdown files in a folder. One agent drives and holds context; the other two run as stateless one-shot reviewers that never see the repo, which is what makes review affordable. A local dashboard shows what each one is doing and costing. |
-| ⚖️ [**Prosecuto**](https://github.com/sahandsamadirad/prosecuto) | `Python` · `LangGraph` · `vLLM` · `Chroma` · `Next.js` | AI assistant for disputing Ontario red-light-camera tickets, built at **NVIDIA Spark Hack Toronto** on ASUS GX10 / NVIDIA GB10 hardware. I built the local-LLM path: routing inference to on-device llama-server and vLLM NVFP4 instead of a hosted API, a per-agent "thinking" toggle so fast agents skip reasoning, and the Redis lock fix that stopped long LLM turns from killing the WebSocket. |
+| ⚖️ [**Prosecuto**](https://github.com/sahandsamadirad/prosecuto) | `Python` · `LangGraph` · `vLLM` · `Chroma` · `Next.js` | AI assistant for disputing Ontario red-light-camera tickets, built at **NVIDIA Spark Hack Toronto** on ASUS GX10 / NVIDIA GB10 hardware. We built the local-LLM path: routing inference to on-device llama-server and vLLM NVFP4 instead of a hosted API, a per-agent "thinking" toggle so fast agents skip reasoning, and the Redis lock fix that stopped long LLM turns from killing the WebSocket. |
 | 🚗 [**Undercut**](https://github.com/SoroushRF/Undercut) · [live ↗](https://undercut-seven.vercel.app) | `Next.js` · `TypeScript` · `FastAPI` · `Go` · `PostgreSQL` | Used-car deal finder for the GTA that flags mathematically underpriced listings. I worked on the visualization layer: total-cost-of-ownership and price-history charts comparing market vs. listed price with percentage deltas, plus the refactor that moved the frontend to a modular design. |
 
 ---
@@ -135,7 +135,7 @@ Recall is the operating metric here, not mAP. A false positive costs a buzz the 
 
 ### 📫 Let's connect
 
-- 🌐 **Portfolio:** [ariyanazami.com](https://ariyanazami.com) *(still being polished)*
+- 🌐 **Portfolio:** [ariyanazami.com](https://ariyanazami.com)
 - 💼 **LinkedIn:** [linkedin.com/in/ariyan-azami](https://www.linkedin.com/in/ariyan-azami)
 - 📊 **Kaggle:** [kaggle.com/ariyanazami](https://www.kaggle.com/ariyanazami)
 - 📧 **Email:** ariyan.azami84@gmail.com
