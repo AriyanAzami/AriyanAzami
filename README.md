@@ -121,8 +121,8 @@ Recall is the operating metric here, not mAP. A false positive costs a buzz the 
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=AriyanAzami&show_icons=true&include_all_commits=true&hide_border=true&theme=github_dark" />
-    <img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=AriyanAzami&show_icons=true&include_all_commits=true&hide_border=true" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.vercel.app/?user=AriyanAzami&hide_border=true&theme=github-dark-blue" />
+    <img height="170" src="https://streak-stats.vercel.app/?user=AriyanAzami&hide_border=true" />
   </picture>
   &nbsp;&nbsp;
   <picture>
