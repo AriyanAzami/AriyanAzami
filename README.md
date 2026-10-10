@@ -113,7 +113,7 @@ More write-ups at [ariyanazami.com](https://ariyanazami.com).
 
 ### 🏆 A few highlights
 
-- 📊 **85,000+ downloads** of the ROD dataset on [Hugging Face](https://huggingface.co/datasets/Abtinzandi/Obstacle-Detection-Dataset-YOLO) alone, plus [Kaggle](https://www.kaggle.com/datasets/abtinzandi/obstacle-detection-dataset)
+- 📊 **ROD dataset downloads:** <a href="https://huggingface.co/datasets/Abtinzandi/Obstacle-Detection-Dataset-YOLO"><img align="center" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fdatasets%2FAbtinzandi%2FObstacle-Detection-Dataset-YOLO%3Fexpand%255B%255D%3DdownloadsAllTime&query=%24.downloadsAllTime&label=Hugging%20Face&color=yellow&style=flat-square" alt="Hugging Face downloads" /></a> on Hugging Face alone, plus [Kaggle](https://www.kaggle.com/datasets/abtinzandi/obstacle-detection-dataset)
 - 🥇 **1st Place:** ATF Robotics Cup, National (5,000+ participants) *(competitive robotics, junior high)*
 - 🥈 **2nd Place:** FIRA RoboWorldCup, National | World Finals Qualifier *(junior high)*
 - 🏗️ Co-founded [Augova](https://augova.com), building voice agents and AI automation for local businesses
