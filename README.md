@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Ariyan Azami 👋</h1>
 <h3 align="center">I build AI, software and hardware that work in the real world</h3>
-<p align="center">Co-founder of <a href="https://augova.com">Augova</a> · Computer Engineering @ York University · Toronto</p>
+<p align="center">Computer Engineering @ York University · Toronto</p>
 
 <p align="center">
   <a href="https://ariyanazami.com"><img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=googlechrome&logoColor=white" /></a>
@@ -16,7 +16,7 @@
 
 I'm a computer engineer who likes building across the whole stack, from detection models and backend services down to circuit boards and flight controllers. Most of my research is in **real-time computer vision**, most notably ROD, a 25-class urban obstacle benchmark for detectors that have to run on the phone in someone's pocket.
 
-I co-founded [Augova](https://augova.com), an AI automation company for small and mid-sized businesses. I've also built backend systems for [Appli AI](https://applisolutions.com)'s hiring platform, and trained U-Net segmentation models for medical imaging at York's Laboratory of Advanced Biotechnologies for Health Assessment.
+I co-founded Augova, an AI automation company, in 2026 and stepped away in November 2026. I've also built backend systems for [Appli AI](https://applisolutions.com)'s hiring platform, and trained U-Net segmentation models for medical imaging at York's Laboratory of Advanced Biotechnologies for Health Assessment.
 
 ---
 
@@ -116,7 +116,7 @@ More write-ups at [ariyanazami.com](https://ariyanazami.com).
 - 📊 **ROD dataset downloads:** <a href="https://huggingface.co/datasets/Abtinzandi/Obstacle-Detection-Dataset-YOLO"><img align="center" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fdatasets%2FAbtinzandi%2FObstacle-Detection-Dataset-YOLO%3Fexpand%255B%255D%3DdownloadsAllTime&query=%24.downloadsAllTime&label=Hugging%20Face&color=yellow&style=flat-square" alt="Hugging Face downloads" /></a> on Hugging Face alone, plus [Kaggle](https://www.kaggle.com/datasets/abtinzandi/obstacle-detection-dataset)
 - 🥇 **1st Place:** ATF Robotics Cup, National (5,000+ participants) *(2019)*
 - 🥈 **2nd Place:** FIRA RoboWorldCup, National | World Finals Qualifier *(2019)*
-- 🏗️ Co-founded [Augova](https://augova.com), building voice agents and AI automation for local businesses
+- 🏗️ Co-founded Augova (Aug–Nov 2026), an AI automation company
 
 ---
 
