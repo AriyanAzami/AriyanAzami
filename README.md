@@ -16,7 +16,7 @@
 
 I'm a computer engineer who likes building across the whole stack, from detection models and backend services down to circuit boards and flight controllers. Most of my research is in **real-time computer vision**, most notably ROD, a 25-class urban obstacle benchmark for detectors that have to run on the phone in someone's pocket.
 
-I co-founded Augova, an AI automation company, in 2026 and stepped away in November 2026. I've also built backend systems for [Appli AI](https://applisolutions.com)'s hiring platform, and trained U-Net segmentation models for medical imaging at York's Laboratory of Advanced Biotechnologies for Health Assessment.
+I co-founded Augova, an AI automation company, in 2026 and stepped away in November 2026. I've also built backend systems for [Appli AI](https://applisolutions.com)'s hiring platform, and trained U-Net segmentation models for medical imaging at York's Laboratory of Advanced Biotechnologies.
 
 ---
 
@@ -39,7 +39,9 @@ A pedestrian-perspective detection benchmark for assistive navigation: warning p
 
 Recall is the operating metric here, not mAP. A false positive costs a buzz the user can ignore; a false negative is an obstacle they walk into. The two rankings disagree, so picking a model on aggregate mAP does *not* give you the one that misses the fewest obstacles.
 
-📥 [Kaggle](https://www.kaggle.com/datasets/abtinzandi/obstacle-detection-dataset) · 🤗 [Hugging Face](https://huggingface.co/datasets/Abtinzandi/Obstacle-Detection-Dataset-YOLO) · 📓 [Training notebooks](https://www.kaggle.com/ariyanazami/code) · 📄 dataset paper submitted
+📥 [Kaggle](https://www.kaggle.com/datasets/abtinzandi/obstacle-detection-dataset) · 🤗 [Hugging Face](https://huggingface.co/datasets/Abtinzandi/Obstacle-Detection-Dataset-YOLO) · 📓 [Training notebooks](https://www.kaggle.com/ariyanazami/code) · 📄 [Paper (arXiv)](https://arxiv.org/abs/2611.00681)
+
+📚 Also co-authored a survey: [From White Canes to Edge AI: A Survey of Assistive Navigation Technologies for Blind and Low-Vision Individuals](https://arxiv.org/abs/2611.00671)
 
 ---
 
